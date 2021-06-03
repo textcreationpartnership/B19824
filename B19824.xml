@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the apprehension of certain notorious robbers, and for the prevention of such offenses hereafter, and for a reward to the apprehenders.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19824</idno><idno type="EEBO-CITATION">99890082</idno>
+  <idno type="VID">192524</idno>
+  <idno type="EEBO-PROQUEST">2240914443</idno>
+  
+            <idno type="OCLC"> 15578374</idno>
+            <idno type="STC">Wing C3446</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[42]</idno>
+            <idno type="STC">ESTC R35894</idno>
+            <idno type="PROQUEST">ocm99890082</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890082e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19824)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192524)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:3[189])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the apprehension of certain notorious robbers, and for the prevention of such offenses hereafter, and for a reward to the apprehenders.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>In the Savoy, printed by the assigns of John Bill and Christopher Barker, printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Whitehall the three and twentieth day of December, in the twentieth year of our reign. 1668.</note>
+                  <note>Arms 80; Steele notation: Robbe- Riding 2) Ju- according.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Brigands and robbers --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:192524:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <p>
+                     <label>C R</label>
+                  </p>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <byline>By the King.</byline>
+            <head>A PROCLAMATION For the Apprehension of certain Notorious Robbers, and for the Prevention of such Offences hereafter, and for a Reward to the Apprehenders.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas divers Lewd and Disorderly persons have of late committed sundry great and hainous Robbe<g ref="char:EOLhyphen"/>ries, Murders, and Burglaries; the which they are more imboldned to do then heretofore, out of hope to escape the hand of Iustice, and by reason of the carelesness and negligence in the due keeping of Watches and Wards, and of the pursuit of them by Hue and Cry with Horse and Foot, as by Law they ought, and through the carelesness of persons to be aiding to the Constables and others in the pur<g ref="char:EOLhyphen"/>suit of them, and through the concealment of them and their Horses by Inn-keepers, Ostlers, and others that keep Lodgings to Let, where they harbour them, and set and keep their Horses, for their Riding out to commit such Offences: For which Offences some of them have been, and stand now In<g ref="char:EOLhyphen"/>dicted, but are not yet taken; and divers not Indicted, but are guilty of the like Crimes, and therefore do conceal and withdraw themselves; and yet nevertheless they are so far from leaving those wicked Courses, that they are now in Acti<g ref="char:EOLhyphen"/>on, and Ride up and down the Countrey, to spoil Our good Subjects. And whereas We are informed, that <hi>Edward Ma<g ref="char:EOLhyphen"/>dox</hi> alias <hi>Morgan, John Blanchard</hi> alias <hi>Major, Lodowick</hi> alias <hi>Lewis</hi> alias <hi>Peter Devall, John Mawer</hi> alias <hi>Marr, William Wood<g ref="char:EOLhyphen"/>ington</hi> alias <hi>Widrington, Humble Ashenhurst</hi> alias <hi>Needham, Swift Nix</hi> alias <hi>Clarke, John</hi> alias <hi>William Philipps</hi> commonly called Captain <hi>Philipps, William Dudley, Howard Coney, John Cassells</hi> alias <hi>Castles, Laurence Clarke, John Martin, Tho<g ref="char:EOLhyphen"/>mas Lambert, John Hewkins</hi> alias <hi>Ickins, William Moore, William Staveley, <gap reason="illegible: omitted in print" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Tripp, David Lloyd, William Stanesby, Thomas Bradshaw, George Painter,</hi> and <hi>Henry Lassells,</hi> are persons notoriously known to be such as do daily commit such Of<g ref="char:EOLhyphen"/>fences in despight and defiance of the Law, and are some of them Indicted, and all of them are well known to be of one Par<g ref="char:EOLhyphen"/>ty and Knot, and commonly do keep Company the one with the other, and with others who already are Convicted of those Offences, and all of them also fly from Iustice, although great endeavour, pains and cost hath been used for their Appre<g ref="char:EOLhyphen"/>hension. We minding to preserve all Our loving Subjects, both in their Lives and Estates, from all Rapine and Vio<g ref="char:EOLhyphen"/>lence, Do hereby Publish and Declare it to be Our Royal Will and Pleasure, and We do hereby command all Our lo<g ref="char:EOLhyphen"/>ving Subjects, and Officers of Iustice, that they use all their best Diligence and Endeavour for the Apprehending all and every the Persons above named, and all others who have committed, or shall commit any of the Offences aforesaid, by whatsoever Name or Names, they, or any of them, are, or have been called or known, to the end they may be proceeded against according to Law and Iustice. And We do hereby further declare Our Will and Pleasure to be, That all Iu<g ref="char:EOLhyphen"/>stices of the Peace do take order, and seé that due Watches and Wards be constantly kept, by Horse and Foot; and after no<g ref="char:EOLhyphen"/>tice of any such Murder, Robbery or Burglary committed, that Hue and Cry be immediately raised and pursued with di<g ref="char:EOLhyphen"/>ligence, both by Horse and Foot, for the Apprehension of such Offenders: And We do hereby strictly Require and Com<g ref="char:EOLhyphen"/>mand, That all Vintners, Keépers of common Ordinaries, Gaming-houses, Inn-keepers, House-keepers, and other per<g ref="char:EOLhyphen"/>sons that keep Lodgings, Chamberlains and Hostlers, and keepers of common Hostleries, and all other persons whatso<g ref="char:EOLhyphen"/>ever, where any of the persons above named, or any others that have committed, or shall commit any of the Crimes afore<g ref="char:EOLhyphen"/>said, shall come, or be, or whither they or any of them shall Resort, do immediately Apprehend, or cause them to be Appre<g ref="char:EOLhyphen"/>hended, and carried to some Iustice of Peace, to be proceeded against according to Law. And if any Vintner, Keepers of common Ordinaries, Gaming-houses, Keeper of Lodgings, Chamberlains, Hostlers, and Keepers of common Hostleries, shall be careless and negligent therein; Our Will and Pleasure is, that they shall be proceeded against and punished there<g ref="char:EOLhyphen"/>fore, so far forth as by due course of Law they may. And for the Encouragement of such as shall Apprehend the Offenders above named, or any of them, We are graciously pleased, and do hereby declare, That such Person or Persons, who shall at any time before the Four and twentieth day of <hi>June</hi> now next ensuing, Apprehend any of the Persons above named, or cause them or any of them to be Apprehended and brought into Custody, and shall Prosecute the said Persons or any of them to a Conviction for their several Offences, shall within Fifteen days after such Conviction have a Reward of Ten Pounds for every of the said Offenders so Apprehended and Convicted as aforesaid. And all and every Sheriff and Sheriffs of the respe<g ref="char:EOLhyphen"/>ctive Counties and Sheriffwicks, where such Conviction shall be had, are hereby required upon the Certificate of the Iudge, or under the Hands of Two or more Iustices of the Peace, before whom such Person or Persons shall be brought and Con<g ref="char:EOLhyphen"/>victed, to pay unto the Person or Persons who shall Apprehend all or any of the Offenders above named, or upon whose Ap<g ref="char:EOLhyphen"/>prehension they, or any of them shall be Convicted, the said Reward of Ten Pounds within the time aforesaid, for each and every of the said Offenders so Apprehended and Convicted as aforesaid, out of the publick Moneys received by him in that County where such Person or Persons shall be Convicted, which shall be allowed unto him upon his Accompt in the Exche<g ref="char:EOLhyphen"/>quer, for the Allowance whereof this Proclamation shall be a sufficient Warrant. And for the better discovery of these and other Offenders in this kind, We are pleased further to Require and Command all, and every Person and Persons who keép Horses at Livery, or Let Horses out to Hire, in any part of the Cities of <hi>London</hi> or <hi>Westminster,</hi> Burrough of <hi>Southwark,</hi> or Counties of <hi>Middlesex</hi> or <hi>Surrey,</hi> forthwith to give a just Accompt to the Two next Iustices of Peace, of all such Horses as he or they so keép at Livery, or Let out to Hire, and who are the Owners thereof, with the place of his or their usual Abode. For which purpose Our Pleasure is, That the Iustices of Peace of the respective Cities and Counties aforesaid, or some of them, do forthwith meét together, and send for Hostlers and others concerned, to give an Accompt according to this Our Royal commandment in that behalf. And forasmuch as many Persons keép Horses in their Stables privately for the fur<g ref="char:EOLhyphen"/>nishing of others that commit these great Offences, We therefore have thought fit to Publish and Declare, That if any Person shall Furnish another with Horses who shall commit any of the Offences aforesaid, he or they so Furnishing the same, shall be proceéded against and punished according to the utmost severities of Law. And lastly, We do hereby Charge and Command all Lieutenants, Deputy-Lieutenants, Iustices of the Peace, Mayors, Sheriffs, Bayliffs, and other Of<g ref="char:EOLhyphen"/>ficers and Persons whatsoever to take notice of this Our Royal Proclamation, and give due Obedience thereunto; and also to be aiding and assisting in all things tending to the execution thereof, as they tender Our Pleasure, and upon pain of being proceéded against as Contemners of Our Royal Authority in a matter of so great concern to the Publique, according to the strictest rules of Iustice.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall</hi>
+                  <date>the Three and Twentieth day of <hi>December,</hi> in the Twentieth year of Our Reign. 1668.</date>
+               </dateline>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>Savoy,</hi> Printed by the Assigns of <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings most Excellent Majesty. 1668.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
